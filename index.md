@@ -2,17 +2,17 @@
 title: Homepage
 layout: default
 ---
-# Welcome to the MineColonies Wiki!
+# Добро пожаловать на вики MineColonies!
 
-MineColonies is an interactive building mod that allows you to create your own thriving town within Minecraft. It lets your leadership skills soar by providing you with everything you need to build your kingdom. MineColonies gives you the flexibility to create a colony as unique as every player. With so many options, you’ll create a different colony every time, adapt it to any biome, build inside a mountain, on top of one, under the ocean, or in the sky.
+MineColonies - это интерактивный строительный мод, который позволяет вам создать свой собственный процветающий город в Minecraft.Это позволяет вашим лидерским навыкам расти, предоставляя вам все необходимое для построения своего королевства. MineColonies дает вам возможность создать такую же уникальную колонию, как и каждый игрок. Имея так много возможностей, вы будете каждый раз создавать новую колонию, адаптировать ее к любому биому, строить внутри горы, на вершине одной, под океаном или в небе.
 
-The limit is your imagination!
+Ваше воображение - ваш предел!
 
-MineColonies features NPC workers such as [Builders](../../source/workers/builder), [Farmers](../../source/workers/farmer), [Fishers](../../source/workers/fisher), [Foresters](../../source/workers/forester), [Guards](../../source/workers/guard), [Miners](../../source/workers/miner), [Smelters](../../source/workers/smelter), [Bakers](../../source/workers/baker), [Cooks](../../source/workers/cook), [Couriers](../../source/workers/courier), five types of animal herders, [Composters](../../source/workers/composter), and many more, with even more being developed and added as the mod grows.
+В MineColonies есть рабочие NPC, такие как [Строители](../../source/workers/builder), [Фермеры](../../source/workers/farmer), [Рыбаки](../../source/workers/fisher), [Лесорубы](../../source/workers/forester), [Стражи](../../source/workers/guard), [Шахтёры](../../source/workers/miner), [Плавильщики](../../source/workers/smelter), [Пекари](../../source/workers/baker), [Повары](../../source/workers/cook), [Курьеры](../../source/workers/courier), пять типов пастухов, [Компостерщики](../../source/workers/composter), и многое другое, и еще больше разрабатывается и добавляется по мере роста мода.
 
-It also includes specialized buildings such as the [Warehouse](../../source/buildings/warehouse), [House](../../source/buildings/house), [Town Hall](../../source/buildings/townhall), [Barracks](../../source/buildings/barracks), [Library](../../source/buildings/library), [University](../../source/buildings/university), and even the [School](../../source/buildings/school).
+Он также включает в себя специализированные здания, такие как [Дом строителя](../../source/buildings/warehouse), [Дом](../../source/buildings/house), [Ратуша](../../source/buildings/townhall), [Барак](../../source/buildings/barracks), [Библиотека](../../source/buildings/library), [Университет](../../source/buildings/university), и конечно [Школа](../../source/buildings/school).
 
-### Please note that the wiki is always referring to the latest 1.16.5 alpha version of MineColonies!
+### Обратите внимание, что вики всегда ссылается на последнюю альфа-версию MineColonies 1.16.5!на
 
 ---
 
@@ -29,6 +29,6 @@ It also includes specialized buildings such as the [Warehouse](../../source/buil
 
 ---
 
-MineColonies is a free and open-source mod developed by Let's Dev Together (LDT), a non-profit community. The source code is available on [GitHub](https://github.com/ldtteam/minecolonies). Our developers are a hard-working, well-integrated coding team, continuously adding more content to make the MineColonies experience even greater. However, we are always looking for more people to contribute to the mod, whether as a coder, builder, artist, voice actor, wiki editor, tester, or simply supporting us on [Patreon](https://www.patreon.com/minecolonies)!
+MineColonies - это бесплатный мод с открытым исходным кодом, разработанный Let's Dev Together (LDT), некоммерческое сообщество. Исходный код доступен на [GitHub](https://github.com/ldtteam/minecolonies). Наши разработчики - это трудолюбивая, хорошо интегрированная команда разработчиков, которая постоянно добавляет больше контента, чтобы сделать MineColonies еще лучше. Тем не менее, мы всегда ищем больше людей, которые могут внести свой вклад в мод, будь то в качестве кодировщика, строителя, художника, актера озвучивания, редактора вики, тестировщика или просто поддерживая нас в [Patreon](https://www.patreon.com/minecolonies)!
 
-Found a bug? Report it as an [issue](https://github.com/ldtteam/minecolonies/issues/new/choose) to help us give you the best gaming experience. If you require any help or just want to join the conversation, check us out on [Discord](https://discord.minecolonies.com)!
+Нашли ошибку? Сообщите об этом на [issue](https://github.com/ldtteam/minecolonies/issues/new/choose) чтобы помочь нам подарить вам лучший игровой опыт. Если вам нужна помощь или вы просто хотите присоединиться к беседе, загляните к нам в [Discord](https://discord.minecolonies.com)!
